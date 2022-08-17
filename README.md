@@ -4,7 +4,7 @@ Solana Kindness Kiosk is a boilerplate for social service organisations or chari
 
 # Test the app
 
-Demo app (Solana Devnet): 
+Demo app (Solana Devnet): https://solanakindnesskiosk.netlify.app/
 Get some devnet SOL from the faucet to test: https://solfaucet.com/
 
 # Development
