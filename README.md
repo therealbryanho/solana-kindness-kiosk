@@ -2,6 +2,8 @@
 
 Solana Kindness Kiosk is a boilerplate for social service organisations or charities to easily receive donations on the Solana network.
 
+Video Demo: https://youtu.be/sHc8uQqWl8Q
+
 # Test the app
 
 Demo app (Solana Devnet): https://solanakindnesskiosk.netlify.app/
