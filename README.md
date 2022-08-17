@@ -5,6 +5,7 @@ Solana Kindness Kiosk is a boilerplate for social service organisations or chari
 # Test the app
 
 Demo app (Solana Devnet): https://solanakindnesskiosk.netlify.app/
+
 Get some devnet SOL from the faucet to test: https://solfaucet.com/
 
 # Development
@@ -17,7 +18,9 @@ To get started with this project, clone this repo and follow these commands:
 Important deployment notes:
 
 1) createTransaction.js - change the below line to your wallet address
+
 const sellerAddress = '6Ta7UptqENMEnQxhbFsDWCp8gSBQZCZssQzLcNqt5gn6'
 
 2) createTransaction.js and _app.js - change the beline WalletAdapterNetwork to mainnet-beta if going live 
+
 const network = WalletAdapterNetwork.Devnet;
